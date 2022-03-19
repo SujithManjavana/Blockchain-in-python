@@ -42,3 +42,5 @@ class Blockchain:
             else:
                 new_proof += 1
         return new_proof
+    
+    
